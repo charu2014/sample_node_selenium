@@ -9,6 +9,7 @@ addons:
 services:
   - selenium
 
+archive: true
 
 before_install:
   - sudo npm -g install npm@latest
